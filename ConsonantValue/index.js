@@ -21,6 +21,11 @@ For the word "strength", solve("strength") = 57
 -- The consonant substrings are: "str" and "ngth" with values "str" = 19 + 20 + 18 = 57 
 and "ngth" = 14 + 7 + 20 + 8 = 49. The highest is 57. */
 
+// PSEUDOCODE:
+    // Assign a value to each letter of the value by incrementing by one with each letter
+    // of the alphabet
+    console.log("a".charCodeAt());
+
 // SOLUTION
 function solve(s) {
     return 0;
